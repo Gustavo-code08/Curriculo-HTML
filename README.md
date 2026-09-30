@@ -1,2 +1,2 @@
-# Curriculo-HTML
-Atividade com o objetivo de construir um currículo utilizando HTML
+# Gustavo Oliveira de Jesus
+## HT-IPI-03-T-26
